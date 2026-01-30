@@ -1,0 +1,36 @@
+# Source control
+.git/
+.gitignore
+.github/
+
+# Development files
+example.md
+example.pdf
+test/
+*.test.js
+
+# Documentation (keep README.md)
+CONTRIBUTING.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Node modules (will be installed by user)
+node_modules/
