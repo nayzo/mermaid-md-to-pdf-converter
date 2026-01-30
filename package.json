@@ -20,7 +20,7 @@
     "puppeteer",
     "cli"
   ],
-  "author": "nzo",
+  "author": "nayzo",
   "license": "MIT",
   "dependencies": {
     "marked": "^14.1.3",
