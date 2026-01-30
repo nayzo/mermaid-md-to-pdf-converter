@@ -32,6 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/mermaid-md-to-pdf-converter.git"
-  }
+    "url": "https://github.com/nayzo/mermaid-md-to-pdf-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nayzo/mermaid-md-to-pdf-converter/issues"
+  },
+  "homepage": "https://github.com/nayzo/mermaid-md-to-pdf-converter#readme"
 }
